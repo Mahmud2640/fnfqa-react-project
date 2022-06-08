@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Service from "./Service";
 import "./Services.css";
+import Zoom from "react-reveal/Zoom";
 
 const Services = () => {
   const [services, setServices] = useState([]);
@@ -12,7 +13,9 @@ const Services = () => {
   }, []);
   return (
     <div id="services">
-      <h1 className="text-center mt-5">Our Services</h1>
+      <Zoom cascade>
+        <h1 className="text-center mt-5">Our Services</h1>
+      </Zoom>
       <div className="services-container">
         {services.map((service) => (
           <Service key={service.id} service={service}></Service>
