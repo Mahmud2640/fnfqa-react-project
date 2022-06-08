@@ -9,6 +9,11 @@
   padding: 20px;
 }
 .footer-box img {
+  background-image: linear-gradient(to right, #e4c0ca, #b8365d);
+  height: 3rem;
+  width: 20rem;
+}
+.footer-box img {
   width: 120px;
   margin-bottom: 20px;
 }

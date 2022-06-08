@@ -10,8 +10,8 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_23m38ks",
-        "template_kilp6ib",
+        "service_lux22z4",
+        "template_q6e0mfj",
         form.current,
         "qz3o7FzKHSUeKzOZ_"
       )
@@ -28,34 +28,36 @@ const Contact = () => {
       );
   };
   return (
-    <div className="form-container">
-      <div className="contact-box">
-        <div className="right">
-          <h2>Contact Us</h2>
-          <form ref={form} onSubmit={sendEmail}>
-            <input
-              type="text"
-              name="name"
-              placeholder="Your Full Name"
-              required
-            />
-            <input
-              type="email"
-              name="email"
-              placeholder="Your Email Address"
-              required
-            />
-            <textarea
-              name="message"
-              rows="7"
-              placeholder="Your Message"
-              required
-            />
-            <button type="submit" className="btn btn-primary">
-              Send Message
-            </button>
-            <ToastContainer />
-          </form>
+    <div id="contact">
+      <div className="form-container">
+        <div className="contact-box">
+          <div className="right">
+            <h2>Contact Us</h2>
+            <form ref={form} onSubmit={sendEmail}>
+              <input
+                type="text"
+                name="name"
+                placeholder="Your Full Name"
+                required
+              />
+              <input
+                type="email"
+                name="email"
+                placeholder="Your Email Address"
+                required
+              />
+              <textarea
+                name="message"
+                rows="7"
+                placeholder="Your Message"
+                required
+              />
+              <button type="submit" className="btn btn-primary">
+                Send Message
+              </button>
+              <ToastContainer />
+            </form>
+          </div>
         </div>
       </div>
     </div>

@@ -9,7 +9,7 @@ const Projects = () => {
       .then((data) => setProjects(data));
   }, []);
   return (
-    <div id="services">
+    <div id="projects">
       <h1 className="text-center mt-5">Our Projects</h1>
       <div className="services-container">
         {projects.map((project) => (

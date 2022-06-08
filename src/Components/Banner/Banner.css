@@ -1,6 +1,8 @@
 #banner {
   background-image: linear-gradient(to right, #8d1b3d, #8d1b3d);
   color: #fff;
+  margin-top: 4rem;
+  padding-top: 2rem;
 }
 .promo-title {
   font-size: 40px;

@@ -5,11 +5,11 @@ import { Card } from "react-bootstrap";
 
 const About = () => {
   return (
-    <section id="services">
+    <section id="about">
       <div className="container text-center">
         <h1 className="title">WHAT WE DO ?</h1>
         <div className="card-grid">
-          <Card style={{ width: "18rem" }}>
+          <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>
             <Card.Body>
               <Card.Title>Our Vision</Card.Title>
               <Card.Text>
@@ -20,7 +20,7 @@ const About = () => {
               </Card.Text>
             </Card.Body>
           </Card>
-          <Card style={{ width: "18rem" }}>
+          <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>
             <Card.Body>
               <Card.Title>Our Mission</Card.Title>
               <Card.Text>
@@ -33,7 +33,7 @@ const About = () => {
               </Card.Text>
             </Card.Body>
           </Card>
-          <Card style={{ width: "18rem" }}>
+          <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>
             <Card.Body>
               <Card.Title>Safety Coordaintor</Card.Title>
               <Card.Text>

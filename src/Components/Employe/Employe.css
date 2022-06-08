@@ -43,6 +43,12 @@
   display: block;
   transform: translateY(8px);
 }
+.teams .carousel {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  justify-content: center;
+}
 .teams .carousel .card {
   background: #fff;
   border-radius: 6px;

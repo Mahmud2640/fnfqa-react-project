@@ -16,11 +16,14 @@ const Header = () => {
           <Nav className="mx-auto freez">
             <a href="#top">HOME</a>
             <a href="#services">SERVICES</a>
+            <a href="#projects">PROJECTS</a>
             <a href="#teams">EMPLOYEE</a>
             <a href="#about">ABOUT US</a>
           </Nav>
           <Nav className="freez">
-            <a href="#job">JOB APPLY</a>
+            <a href="https://forms.gle/cyCXhEkAUtSpPLt69" target="_blank">
+              JOB APPLY
+            </a>
             <a href="#contact">CONTACT US</a>
           </Nav>
         </Navbar.Collapse>

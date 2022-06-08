@@ -10,9 +10,9 @@ const Service = ({ service }) => {
       <div className="card-body">
         <h2 className="card-title">{name}</h2>
       </div>
-      <Link to="/checkout">
+      <a href="#contact">
         <button className="btn btn-primary">Booking</button>
-      </Link>
+      </a>
     </div>
   );
 };
