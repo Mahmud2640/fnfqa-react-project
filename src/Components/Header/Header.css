@@ -1,0 +1,17 @@
+.navbar {
+  background-image: linear-gradient(to right, #8d1b3d, #8d1b3d);
+}
+.navbar-brand img {
+  background-image: linear-gradient(to right, #f8e6eb, #8d1b3d);
+  height: 3rem;
+  width: 11rem;
+  padding-left: 20px;
+}
+.freez a {
+  color: yellow;
+  margin: 5px;
+  text-decoration: none;
+}
+.freez a:hover {
+  color: white;
+}
