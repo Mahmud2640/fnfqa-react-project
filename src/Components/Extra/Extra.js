@@ -9,7 +9,7 @@ const Extra = () => {
         className="container"
         data-aos="fade-left"
         data-aos-easing="ease-out-cubic"
-        data-aos-duration="2000"
+        data-aos-duration="4000"
       >
         <h1 className="title text-center">WHY CHOOSE US ?</h1>
         <div className="row">

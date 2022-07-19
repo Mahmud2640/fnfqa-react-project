@@ -12,7 +12,7 @@ const Employe = () => {
       id="teams"
       data-aos="zoom-in-left"
       data-aos-easing="ease-out-cubic"
-      data-aos-duration="3000"
+      data-aos-duration="6000"
     >
       <div class="max-width">
         <h2 class="teams-title">Our Teams</h2>

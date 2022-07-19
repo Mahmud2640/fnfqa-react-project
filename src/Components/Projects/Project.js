@@ -7,7 +7,7 @@ const Project = ({ project }) => {
       className="service"
       data-aos="zoom-in"
       data-aos-easing="ease-out-cubic"
-      data-aos-duration="2000"
+      data-aos-duration="3000"
     >
       <img src={img} className="card-img-top" alt="..." />
       <div className="card-body">

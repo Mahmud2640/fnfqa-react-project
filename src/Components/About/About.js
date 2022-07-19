@@ -10,7 +10,7 @@ const About = () => {
         className="container text-center"
         data-aos="fade-right"
         data-aos-easing="ease-out-cubic"
-        data-aos-duration="2000"
+        data-aos-duration="5000"
       >
         <h1 className="title">WHAT WE DO ?</h1>
         <div className="card-grid">
