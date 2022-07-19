@@ -13,7 +13,12 @@ const Header = () => {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="mx-auto freez">
+          <Nav
+            className="mx-auto freez"
+            data-aos="zoom-in"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+          >
             <a href="#top">HOME</a>
             <a href="#services">SERVICES</a>
             <a href="#projects">PROJECTS</a>

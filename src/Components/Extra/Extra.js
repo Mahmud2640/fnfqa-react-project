@@ -5,7 +5,12 @@ import image from "../../Images/Image/network.png";
 const Extra = () => {
   return (
     <section id="about-us">
-      <div className="container">
+      <div
+        className="container"
+        data-aos="fade-left"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="2000"
+      >
         <h1 className="title text-center">WHY CHOOSE US ?</h1>
         <div className="row">
           <div className="col-md-6 about-us">

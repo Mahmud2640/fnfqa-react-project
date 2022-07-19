@@ -6,7 +6,12 @@ import { Card } from "react-bootstrap";
 const About = () => {
   return (
     <section id="about">
-      <div className="container text-center">
+      <div
+        className="container text-center"
+        data-aos="fade-right"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="2000"
+      >
         <h1 className="title">WHAT WE DO ?</h1>
         <div className="card-grid">
           <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>

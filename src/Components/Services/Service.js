@@ -4,7 +4,12 @@ import "./Services.css";
 const Service = ({ service }) => {
   const { name, img } = service;
   return (
-    <div className="service">
+    <div
+      className="service"
+      data-aos="zoom-in"
+      data-aos-easing="ease-out-cubic"
+      data-aos-duration="2000"
+    >
       <img src={img} className="card-img-top" alt="..." />
       <div className="card-body">
         <h2 className="card-title">{name}</h2>

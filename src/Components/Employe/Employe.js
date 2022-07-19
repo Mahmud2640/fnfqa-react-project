@@ -7,7 +7,13 @@ import profile4 from "../../Images/Image/profile-4.jpg";
 
 const Employe = () => {
   return (
-    <section class="teams" id="teams">
+    <section
+      class="teams"
+      id="teams"
+      data-aos="zoom-in-left"
+      data-aos-easing="ease-out-cubic"
+      data-aos-duration="3000"
+    >
       <div class="max-width">
         <h2 class="teams-title">Our Teams</h2>
         <div class="carousel owl-carousel">
