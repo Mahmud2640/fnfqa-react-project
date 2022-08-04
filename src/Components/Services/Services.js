@@ -14,7 +14,7 @@ const Services = () => {
   return (
     <div id="services">
       <Zoom cascade>
-        <h1 className="text-center mt-5">Our Services</h1>
+        <h1 className="text-center mt-5">Our Main Services</h1>
       </Zoom>
       <div className="services-container">
         {services.map((service) => (
