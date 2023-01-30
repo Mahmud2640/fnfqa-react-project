@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "MANPOWER SUPPLY",
+    "img": "https://i.ibb.co/TvJj3KZ/manpower.png"
+  },
+  {
+    "id": 2,
+    "name": "GYPSUM INSTALLATION WORK",
+    "img": "https://i.ibb.co/Bg5Z7nm/gypsum-installation.jpg"
+  },
+  {
+    "id": 3,
+    "name": "INTERIOR DESIGN",
+    "img": "https://i.ibb.co/pLy8BHC/interior.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ELECTRICAL WORKS",
+    "img": "https://i.ibb.co/2WyJD8T/electrical.jpg"
+  },
+  {
+    "id": 5,
+    "name": "MEP WORKS",
+    "img": "https://i.ibb.co/GHMxV6n/mep-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PLUMBING WORKS",
+    "img": "https://i.ibb.co/HrWCGf4/plumbing-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "PAINTING WORKS",
+    "img": "https://i.ibb.co/gZs1R9q/painting-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "MATERIALS SUPPLY",
+    "img": "https://i.ibb.co/yWXXYzz/materials-supply-1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "TILES AND BLOCK FIXING",
+    "img": "https://i.ibb.co/dPN0Hz9/tiles-1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "STEEL FIXER",
+    "img": "https://i.ibb.co/P57jQXb/steel-fixer-1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "PLASTERING",
+    "img": "https://i.ibb.co/2d07kDJ/plaster-1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "cleaner",
+    "img": "https://i.ibb.co/9TqXyCY/clening-1.jpg"
+  }
+]
