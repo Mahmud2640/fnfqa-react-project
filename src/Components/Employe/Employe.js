@@ -2,8 +2,7 @@ import React from "react";
 import "./Employe.css";
 import profile1 from "../../Images/Image/profile-1.jpeg";
 import profile2 from "../../Images/Image/profile-2.jpeg";
-import profile3 from "../../Images/Image/profile-3.jpeg";
-import profile4 from "../../Images/Image/profile-4.jpg";
+import mahmud from "../../Images/Image/mahmud.jpeg";
 import profile5 from "../../Images/Image/profile-5.jpeg";
 import profile6 from "../../Images/Image/profile-6.jpeg";
 
@@ -25,7 +24,7 @@ const Employe = () => {
 
           <div class="card">
             <div class="box">
-              <img src={profile4} alt="" />
+              <img src={mahmud} alt="" />
               <div class="text">
                 <strong>Abdullah Al Mahmud</strong>
               </div>
@@ -40,16 +39,6 @@ const Employe = () => {
                 <strong>MD. Arafat Hossain</strong>
               </div>
               <p>Representative</p>
-            </div>
-          </div>
-
-          <div class="card">
-            <div class="box">
-              <img src={profile3} alt="" />
-              <div class="text">
-                <strong>Kazi Shah Jalal Forhad</strong>
-              </div>
-              <p>Marketing Executive</p>
             </div>
           </div>
           <div class="card">

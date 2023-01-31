@@ -14,43 +14,43 @@ const About = () => {
       >
         <h1 className="title">WHAT WE DO ?</h1>
         <div className="card-grid">
-          <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>
+          <Card className="mx-auto shadow-lg" style={{ width: "25rem" }}>
             <Card.Body>
               <Card.Title>Our Vision</Card.Title>
               <Card.Text>
-                To be the leading firm in the field of interior designing. Fnf
-                Trading Contratating and service will strive to offer excellent
-                services by providing excellent quality of work applying the
-                latest state of the art technogy for the industry.
+                TO BE THE LEADING FIRM IN THE FIELD OF INTERIOR DESIGNING. FNF
+                TRADING CONTRATATING AND SERVICE WILL STRIVE TO OFFER EXCELLENT
+                SERVICES BY PROVIDING EXCELLENT QUALITY OF WORK APPLYING THE
+                LATEST STATE OF THE ART TECHNOGY FOR THE INDUSTRY.
               </Card.Text>
             </Card.Body>
           </Card>
-          <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>
+          <Card className="mx-auto shadow-lg" style={{ width: "25rem" }}>
             <Card.Body>
               <Card.Title>Our Mission</Card.Title>
               <Card.Text>
-                To exploit the maximum level of our qualifued personnel and to
-                establish a professional team committed to serve our clients.
-                Out pledge is to build everlasting relatuonship with our
-                customers by meeting their expectation and gaining their trust.
-                through de dicated performance by each and every member of the
-                fnf trading contracting and servic team.
+                TO EXPLOIT THE MAXIMUM LEVEL OF OUR QUALIFUED PERSONNEL AND TO
+                ESTABLISH A PROFESSIONAL TEAM COMMITTED TO SERVE OUR CLIENTS.
+                OUT PLEDGE IS TO BUILD EVERLASTING RELATUONSHIP WITH OUR
+                CUSTOMERS BY MEETING THEIR EXPECTATION AND GAINING THEIR TRUST.
+                THROUGH DE DICATED PERFORMANCE BY EACH AND EVERY MEMBER OF THE
+                FNF TRADING CONTRACTING AND SERVIC TEAM.
               </Card.Text>
             </Card.Body>
           </Card>
-          <Card className="mx-auto shadow-lg" style={{ width: "18rem" }}>
+          <Card className="mx-auto shadow-lg" style={{ width: "25rem" }}>
             <Card.Body>
               <Card.Title>Safety Coordaintor</Card.Title>
               <Card.Text>
                 <p>
                   <li>
-                    Provide guidance to employees and supervission in the
-                    implementation of this procedure.
+                    PROVIDE GUIDANCE TO EMPLOYEES AND SUPERVISSION IN THE
+                    IMPLEMENTATION OF THIS PROCEDURE.
                   </li>
                   <li>
-                    Ensure all work areas and equipment used for welding/cutting
-                    operation are being inspected for compliance with the
-                    requirements of this procedure.
+                    ENSURE ALL WORK AREAS AND EQUIPMENT USED FOR WELDING/
+                    CUTTING OPERATION ARE BEING INSPECTED FOR COMPLIANCE WITH
+                    THE REQUIREMENTS OF THIS PROCEDURE.
                   </li>
                 </p>
               </Card.Text>
